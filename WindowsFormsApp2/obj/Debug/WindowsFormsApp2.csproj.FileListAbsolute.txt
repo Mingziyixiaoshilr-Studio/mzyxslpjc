@@ -1,0 +1,9 @@
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\名字已消失了认识的人的评价.exe.config
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\名字已消失了认识的人的评价.exe
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\名字已消失了认识的人的评价.pdb
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\名字已消失了认识的人的评价.Properties.Resources.resources
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\名字已消失了认识的人的评价.exe
+C:\Users\mzyxsl\Desktop\源码\名字已消失了认识的人的评价vs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\名字已消失了认识的人的评价.pdb
